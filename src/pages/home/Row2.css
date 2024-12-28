@@ -1,0 +1,17 @@
+
+    .App{
+        display:flex;
+        justify-content: flex-start;
+        align-items: center;
+        padding-top: 30px;
+        flex-direction: column;
+    }
+    .formStyle{
+        padding: 20px;
+        border:1px solid black;
+        width:25%;
+        text-align: left;
+    }
+    .form-control{
+        border-color: black !important;
+    }
